@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Student (Distributed Systems)<br><br>⚽ Passionate about Football Data Analytics & AI  <br>🤖 Building intelligent systems using Machine Learning & Computer Vision  <br>📊 Working on my first major project: AI/ML Football Analysis System (YOLO, OpenCV, Python)<br><br>💡 Interested in:<br>- Computer Vision<br>- Machine Learning<br>- Data Analytics<br>- AI-powered SaaS Systems<br><br>🚀 Currently learning and building real-world AI projects to create impactful solutions.
+🎓 Computer Science Student <br><br>⚽ Passionate about Football Data Analytics & AI  <br>🤖 Building intelligent systems using Machine Learning & Computer Vision  <br>📊 Working on my first major project: AI/ML Football Analysis System (YOLO, OpenCV, Python)<br><br>💡 Interested in:<br>- Computer Vision<br>- Machine Learning<br>- Data Analytics<br>- AI-powered SaaS Systems<br><br>🚀 Currently learning and building real-world AI projects to create impactful solutions.
 
 
 ## 🌐 Socials:
